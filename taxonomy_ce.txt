@@ -1,0 +1,14 @@
+OTU_ID/Taxonomy	Kingdom	Phylum	Class	Order	Family	Genera	
+OTU05	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Xylariales	f__Microdochiaceae	g__Microdochium	
+OTU06	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium	
+OTU10	k__Fungi	p__Unknown2	c__Unknown2	o__Unknown2	f__Unknown2	g__Unknown2	
+OTU16	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Chaetomium	
+OTU48	k__Fungi	p__Ascomycota	c__Dothideomycetes	o__Cladosporiales	f__Cladosporiaceae	g__Cladosporium	
+OTU59	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Sordariales	f__Chaetomiaceae	g__Chaetomium	
+OTU78	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma	
+OTU102	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Hypocreaceae	g__Trichoderma	
+OTU106	k__Fungi	p__Ascomycota	c__Sordariomycetes	o__Hypocreales	f__Nectriaceae	g__Fusarium	s__fusarium_oxysporum_species_complex
+OTU126	k__Fungi	p__Unknown1	c__Unknown1	o__Unknown1	f__Unknown1	g__Unknown1	
+OTU130	k__Fungi	p__unidentified	c__unidentified	o__unidentified	f__unidentified	g__unidentified	s__unidentified_fungus
+OTU247	k__Fungi	p__Unknown3	c__Unknown3	o__Unknown3	f__Unknown3	g__Unknown3	
+OTU248	k__Fungi	p__Ascomycota	c__Eurotiomycetes	o__Eurotiales	f__Aspergillaceae	g__Penicillium

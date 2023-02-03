@@ -1,0 +1,11 @@
+Sample ID	Genotype	Extract ID	Microhabitat	Description
+P09	Barke	Barke_1	Endosphere	Wild
+P24	Barke	Barke_2	Endosphere	Wild
+P37	Barke	Barke_3	Endosphere	Wild
+P42	Barke	Barke_4	Endosphere	Wild
+P50	Barke	Barke_6	Endosphere	Wild
+P1	124_52	124_52_1	Endosphere	Elite
+P3	124_52	124_52_2	Endosphere	Elite
+P11	124_52	124_52_3	Endosphere	Elite
+P18	124_52	124_52_4	Endosphere	Elite
+P34	124_52	124_52_6	Endosphere	Elite
